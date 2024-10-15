@@ -7,6 +7,16 @@
 
     "events":[
       {
+        "title": "Leet Code Session #18",
+        "description": "Join us for a biweekly LeetCode session to improve your coding skills and prepare for technical interviews. All levels are welcome!",
+        "location": "Olds Upton 312",
+        "date": "Oct 18, 2024 18:00:00",
+        "end": "Oct 18, 2024 19:00:00",
+        "img": "leetcode.jpg",
+        "type": ["coding"]
+      },
+      
+      {
         "title": "Welcome!",
         "description": "The first meeting of the term! Come to get to know us <3",
         "location": "Olds Upton 312",
