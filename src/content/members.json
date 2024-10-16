@@ -1,8 +1,57 @@
 {
   "items": [
     {
+      "bg": "images/members/Chau.webp",
+      "title": "President",
+      "name": "Chau Ta",
+      "team": "Core Team",
+      "desc": "Chau is a sophomore majoring in Computer Science. She is interested in solving real-life problems using technology. In her free time, Chau loves dancing (dance cover), eating, listening to kpop and jpop, and making miniatures.",
+      "askMe": [
+        "Resources for Beginners",
+        "Career Tips for Beginners"
+      ],
+      "socials": [
+        {
+          "url" : "https://www.instagram.com/_tamc.desu/",
+          "name" : "Instagram"
+        },
+        {
+          "url" : "https://www.linkedin.com/in/chauta-/",
+          "name" : "LinkedIn"
+        },
+        {
+          "url" : "https://github.com/tachau03",
+          "name" : "GitHub"
+       }
+      ],
+      "tags": [ "Core Team", "Web Dev Team", "Member" ]
+    },
+    {
+      "bg": "images/members/Nailia.webp",
+      "title": "",
+      "name": "Nailia Narynbek kyzy",
+      "team": "Core Team",
+      "desc": "Nailia is a sophomore double majoring in Computer Science and Economics. She has a strong interest in the front-end development. If you're looking for someone to hang out with at a cozy cafe with matcha, she's your go-to person.",
+      "askMe": [
+        "Web Development",
+        "Career Tips",
+        "Any Projects"
+      ],
+      "socials": [
+        {
+          "url" : "https://www.instagram.com/narynbbekova/",
+          "name" : "Instagram"
+        },
+        {
+          "url" : "https://www.linkedin.com/in/nailia-narynbek-kyzy/",
+          "name" : "LinkedIn"
+        }
+      ],
+      "tags": [ "Core Team", "Web Dev Team", "Member" ]
+    },
+    {
       "bg": "images/members/Aleksandr.webp",
-      "title": "Founder & President",
+      "title": "Alumni",
       "name": "Aleksandr Molchagin",
       "team": "Core Team",
       "desc": "Aleksandr is a senior student studying Computer Science and Business. He cares about social and environmental issues and believes in the power of technology in making the world a better place.",
@@ -31,74 +80,11 @@
           "name" : "Telegram"
         }
       ],
-      "tags": [ "Core Team", "Web Dev Team", "Voice Assistant Team", "Member" ]
-    },
-    {
-      "bg": "images/members/luminara.webp",
-      "title": "Jedi Knight",
-      "name": "Luminara Unduli",
-      "team": "CS Faculty",
-      "desc": "A Jedi Knight :O",
-      "askMe": [
-        "The Force",
-        "Lightsabers",
-        "Padawan Training",
-        "War Strategies",
-        "Meditation"
-      ],
-      "socials": [
-        {
-          "url" : "https://www.linkedin.com/in/amolchagin/",
-          "name" : "LinkedIn"
-        },
-        {
-          "url" : "https://github.com/AleksandrMolchagin",
-          "name" : "GitHub"
-       }
-      ],
-      "tags": []
-    },
-    {
-      "bg": "images/members/Chau.webp",
-      "title": "Vice President",
-      "name": "Chau Ta",
-      "team": "Core Team",
-      "desc": "Chau is a sophomore majoring in Computer Science. She is interested in solving real-life problems using technology. In her free time, Chau loves dancing (dance cover), eating, listening to kpop and jpop, and making miniatures.",
-      "askMe": [
-        "Resources for Beginners",
-        "Career Tips for Beginners"
-      ],
-      "socials": [
-        {
-          "url" : "https://www.instagram.com/_tamc.desu/",
-          "name" : "Instagram"
-        },
-        {
-          "url" : "https://www.linkedin.com/in/chauta-/",
-          "name" : "LinkedIn"
-        },
-        {
-          "url" : "https://github.com/tachau03",
-          "name" : "GitHub"
-       }
-      ],
-      "tags": [ "Core Team", "Web Dev Team", "Member" ]
-    },
-    {
-      "bg": "images/members/Kate.webp",
-      "title": "Vice President",
-      "name": "Kate Haywood",
-      "team": "Core Team",
-      "desc": "Kate is a senior student studying computer science and biology. She is interested in helping students whenever possible. In her free time she enjoys spending time with friends and family, exploring new places, and playing board games.",
-      "askMe": ["CS and bio classes", "Taking the path less traveled", "Becoming more involved in CSS"],
-      "socials": [
-     
-      ],
-      "tags": ["Member", "Core Team"]
+      "tags": [ "Web Dev Team", "Voice Assistant Team", "Member", "Alumni" ]
     },
     {
       "bg": "images/members/Duure.webp",
-      "title": "LeetCode Master",
+      "title": "Alumni",
       "name": "Duurenbayar Ulziiduuren",
       "team": "Core Team",
       "desc": "I am a senior student studying Computer science and Economics. Interested in full-stack development or software development in general. I am a huge basketball fan.",
@@ -113,7 +99,7 @@
           "name" : "GitHub"
        }
       ],
-      "tags": ["Member", "Core Team"]
+      "tags": ["Member", "Alumni"]
     },
     {
       "bg": "images/members/bossk.webp",
