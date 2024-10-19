@@ -28,7 +28,7 @@
     },
     {
       "bg": "images/members/Nailia.webp",
-      "title": "",
+      "title": "Vice President",
       "name": "Nailia Narynbek kyzy",
       "team": "Core Team",
       "desc": "Nailia is a sophomore double majoring in Computer Science and Economics. She has a strong interest in the front-end development. If you're looking for someone to hang out with at a cozy cafe with matcha, she's your go-to person.",
@@ -54,7 +54,7 @@
       "title": "Alumni",
       "name": "Aleksandr Molchagin",
       "team": "Core Team",
-      "desc": "Aleksandr is a senior student studying Computer Science and Business. He cares about social and environmental issues and believes in the power of technology in making the world a better place.",
+      "desc": "Aleksandr is a graduate student studying Computer Science and Business. He cares about social and environmental issues and believes in the power of technology in making the world a better place.",
       "askMe": [
         "Product Management",
         "UI/UX Design",
